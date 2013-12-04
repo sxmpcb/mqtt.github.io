@@ -1,4 +1,4 @@
-mqttorg.github.io
+mqtt.github.io
 =================
 
 website
