@@ -21,3 +21,5 @@ Content on the wiki is subject to the [CC-BY-4.0 International license](https://
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. HTML <em>tags</em> will <b>always</b> work.</dd>
 </dl>
+
+<font color=gray size=5>明天，你好！</font>
