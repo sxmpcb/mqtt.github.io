@@ -12,3 +12,12 @@ Content on the wiki is subject to the [CC-BY-4.0 International license](https://
 <font color=#7E7129>中间写上想说的话</font>
 
 `RGB(0,255,0)`
+
+
+<dl>
+  <dt color=red>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. HTML <em>tags</em> will <b>always</b> work.</dd>
+</dl>
